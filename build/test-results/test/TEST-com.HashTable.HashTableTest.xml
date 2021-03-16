@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.HashTable.HashTableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-16T09:00:33" hostname="Manojs-MacBook-Air.local" time="0.022">
+  <properties/>
+  <testcase name="find_frequency_of_given_words()" classname="com.HashTable.HashTableTest" time="0.022"/>
+  <system-out><![CDATA[HashTable{LinkedListNode{Map Node{K=to V=2}->Map Node{K=be V=2}->Map Node{K=or V=1}->Map Node{K=not V=1}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
